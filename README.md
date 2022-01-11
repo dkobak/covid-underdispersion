@@ -1,13 +1,11 @@
 # Testing reported Covid-19 deaths and cases for Poisson underdispersion
 
-
-```
 Testing reported Covid-19 cases and deaths for underdispersion compared to Poisson, based on the WHO data. Each
 dot is one week, 97 weeks in total. Asterisks denote p<0.05. Only countries with at least 15 weeks with p<0.05 
 undispersion, or at least 4 weeks in a row, are shown. Summed weekly counts are separately tested for under-
 dispersion in chunks of 7 weeks (below); countries with at least 4 significant weeks are shown.
 
-
+```
   == REPORTED DEATHS ==
 Albania        .................*.......**....***......*........*..*.*..*..................*.***................
 Algeria        ..........*****.**.....*...........................**...*.*.***.*...****............***.*.**....*
