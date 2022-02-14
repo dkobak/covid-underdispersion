@@ -1,5 +1,7 @@
 # Testing reported Covid-19 deaths and cases for Poisson underdispersion
 
+Preprint: https://www.medrxiv.org/content/10.1101/2022.02.11.22270841v1
+
 Testing reported Covid-19 cases and deaths for underdispersion compared to Poisson, based on the WHO data. Each
 dot is one week, 100 weeks in total. Asterisks denote p<0.05. Only countries with at least 15 weeks with p<0.05 
 undispersion, or at least 4 weeks in a row, are shown. Summed weekly counts are separately tested for under-
