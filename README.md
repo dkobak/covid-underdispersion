@@ -1,6 +1,10 @@
-# Testing reported Covid-19 deaths and cases for Poisson underdispersion
+# Underdispersion: A statistical anomaly in reported Covid data
 
-Preprint: https://www.medrxiv.org/content/10.1101/2022.02.11.22270841v1
+Paper: https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01627 (_Significance_, 2022)
+
+The entire analysis presented in the paper can be reproduced with the provided Jupyter notebook. Frozen data is provided in the `frozen-data` folder. Final figures can be found in the `img` folder. 
+
+------------------
 
 Testing reported Covid-19 cases and deaths for underdispersion compared to Poisson, based on the WHO data. Each
 dot is one week, 100 weeks in total. Asterisks denote p<0.05. Only countries with at least 15 weeks with p<0.05 
